@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67671889636",
+    "project_id": "myopia-predictor",
+    "storage_bucket": "myopia-predictor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67671889636:android:f397b8715f790d2e197ef1",
+        "android_client_info": {
+          "package_name": "com.tauqeer.myopia_predictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67671889636-dqgnpfqrv5uoudtt5n825h3mbdvnvbrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH5it7GnzR8j9CESf4O_AkfX_TKpgZPRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67671889636-dqgnpfqrv5uoudtt5n825h3mbdvnvbrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
