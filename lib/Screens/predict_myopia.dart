@@ -891,6 +891,6 @@ class _PredictMyopiaBodyState extends State<PredictMyopiaBody> {
     timeWhenYouWakeUpInt = int.parse(timeToWakeUp.replaceAll(':', ''));
     print(timeWhenYouWakeUpInt);
 
-    return 'https://calm-escarpment-52632.herokuapp.com/?gender=$genderInt&age=$age&study=$studyInt&parents=$parentsInt&gparents=$gParentsInt&siblings=$numberOfSiblings&smoking=$smokingInt&glasses=$glassesInt&eyeExam=$eyeExamFrequency&indoorAct=$indoorAct&readingTime=$readingTime&books=$booksRead&bookDistance=$distanceBook&outdoorAct=$outdoorAct&sleepingTime=$sleepingTimeInt&goToSleep=$timeWhenYouSleepInt&wakeUpTime=$timeWhenYouWakeUpInt&exercise=$averageTimeExercising';
+    return 'https://calm-escarpment-52632.herokuapp.com/?model=SVM&gender=$genderInt&age=$age&study=$studyInt&parents=$parentsInt&gparents=$gParentsInt&siblings=$numberOfSiblings&smoking=$smokingInt&glasses=$glassesInt&eyeExam=$eyeExamFrequency&indoorAct=$indoorAct&readingTime=$readingTime&books=$booksRead&bookDistance=$distanceBook&outdoorAct=$outdoorAct&sleepingTime=$sleepingTimeInt&goToSleep=$timeWhenYouSleepInt&wakeUpTime=$timeWhenYouWakeUpInt&exercise=$averageTimeExercising';
   }
 }
